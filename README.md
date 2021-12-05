@@ -7,6 +7,6 @@ and the ones seeking the documents will search for them here and contact people 
 
 
 # the participants are
-NSHIMIYIMANA Amani:220005499
-NDUWUMWE Pacific:220001925
-UWAMAHORO Juliene:220004198
+1.NSHIMIYIMANA Amani:220005499
+2.NDUWUMWE Pacific:220001925
+3.UWAMAHORO Juliene:220004198
